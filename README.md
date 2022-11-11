@@ -9,9 +9,9 @@ I'm a software engineer, who is consistently recognized by leadership for meetin
 
 ## Where to find me
 
-- Email Me: 
+- Email: 
   Rojoadrian16@gmail.com
 - Portfolio:
-  <a href='Adrianrojo.vercel.app'>Adrianrojo.vercel.app</a>
+  Adrianrojo.vercel.app
 - LinkedIn:
   www.linkedin.com/in/adrianrrojo/
