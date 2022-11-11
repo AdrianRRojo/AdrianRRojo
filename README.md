@@ -12,6 +12,6 @@ I'm a software engineer, who is consistently recognized by leadership for meetin
 - Email Me: 
   Rojoadrian16@gmail.com
 - Portfolio:
-  <a htmlto='Adrianrojo.vercel.app'>Adrianrojo.vercel.app</a>
+  <a href='Adrianrojo.vercel.app'>Adrianrojo.vercel.app</a>
 - LinkedIn:
   www.linkedin.com/in/adrianrrojo/
