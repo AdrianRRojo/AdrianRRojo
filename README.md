@@ -3,8 +3,7 @@
 Hey, I'm Adrian 🙋‍♂️
 
 
-<img width='1200' height='500' alt="Adrian Rojo profile page card" src="![My project-1](https://user-images.githubusercontent.com/108231637/205417600-b2337ebb-c379-483c-a016-6c15b1152965.png)
- ">
+<img width='1200' height='500' alt="Adrian Rojo profile page card" src="https://imgur.com/a/HR3uS5N">
 
 I'm a software engineer, who is consistently recognized by leadership for meeting high standards. Willing to learn and looking to begin a long-term career. I excel at quick decision-making and work well under pressure. I present my work as a reflection of my dedication to quality in any position I hold.
 
