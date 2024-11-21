@@ -10,7 +10,7 @@ I'm a DevOps engineer, who is consistently recognized by leadership for meeting 
 ## Where to find me
 
 - Email: 
-  Rojoadrian16@gmail.com
+  ARicardoRojo@gmail.com
 - Portfolio:
   [Adrian-Rojo.com](https://Adrian-rojo.com)
 - LinkedIn:
