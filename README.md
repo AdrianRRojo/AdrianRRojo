@@ -7,6 +7,7 @@ Hey, I'm Adrian 🙋‍♂️
   </p> -->
 I'm a DevOps engineer, who is consistently recognized by leadership for meeting high standards. I have a desire to learn and continue to grow in this field. I excel at quick decision-making and work well under pressure. I present my work as a reflection of my dedication to quality.
 
+* Currently Learning Go
 ## Where to find me
 
 - Email: 
